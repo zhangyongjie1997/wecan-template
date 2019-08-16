@@ -1,0 +1,10 @@
+body{
+  font-size: 40px;
+  color: red;
+}
+.block{
+  width: 100px;
+  height: 100px;
+  background: url('../img/bg_1.png');
+  background-size: 100% 100%;
+}
